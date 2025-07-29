@@ -1,0 +1,14 @@
+{
+  "id": "test_20250729_164523_001",
+  "timestamp": "2025-07-29T16:45:23.000Z",
+  "source_agent": "claude-code",
+  "test_type": "context_injection",
+  "message": "Context test with injection",
+  "provided_context": {
+    "user": "alice",
+    "role": "admin",
+    "session": "12345"
+  },
+  "creation_time": "2025-07-29T16:45:23.000Z",
+  "status": "created"
+}
