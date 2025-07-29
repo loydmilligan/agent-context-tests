@@ -1,0 +1,18 @@
+{
+  "id": "test-20250729-143022-luna",
+  "created_at": "2025-07-29T14:30:22Z",
+  "source_agent": "claude-code-test-writer",
+  "test_type": "basic_data_generation",
+  "data": {
+    "user_input": "Luna",
+    "generated_content": "Test data generated for user Luna",
+    "test_metadata": {
+      "environment": "linux-wsl2",
+      "working_directory": "/home/mmariani/Projects/agent-context-tests",
+      "model": "claude-sonnet-4-20250514"
+    }
+  },
+  "status": "success",
+  "context_received": null,
+  "notes": "Basic test data file generated for context sharing experiment"
+}
