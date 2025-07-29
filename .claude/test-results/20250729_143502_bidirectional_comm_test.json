@@ -1,0 +1,34 @@
+{
+  "id": "20250729_143502_bidirectional_comm_test",
+  "timestamp": "2025-07-29T14:35:02Z",
+  "project_name": "Agent Context Research",
+  "priority_level": "high",
+  "description": "Testing bidirectional communication patterns between main agent and specialized test agents",
+  "test_type": "bidirectional_communication",
+  "source_agent": "claude-code-main",
+  "created_by": "test-data-generator",
+  "test_parameters": {
+    "pattern": "bidirectional_comm",
+    "scenario": "main_agent_specialized_test_agents",
+    "expected_outcome": "successful_context_transfer"
+  },
+  "context_data": {
+    "project_context": "Multi-agent workflow testing for Claude Code",
+    "communication_pattern": "Request/response between agents",
+    "test_objectives": [
+      "Verify context preservation in bidirectional flows",
+      "Measure communication overhead",
+      "Test error handling in agent-to-agent calls",
+      "Validate data integrity across agent boundaries"
+    ]
+  },
+  "metadata": {
+    "priority": "high",
+    "complexity": "medium",
+    "estimated_duration": "15-30 minutes",
+    "required_agents": ["main", "test-writer", "test-reader", "test-counter"]
+  },
+  "status": "initialized",
+  "creation_method": "test_data_generator",
+  "file_format_version": "1.0"
+}
