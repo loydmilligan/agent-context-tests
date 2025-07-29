@@ -1,0 +1,5 @@
+{
+  "test": "file-handoff",
+  "instructions": "Use test-writer to create a file, then test-reader to read it",
+  "timestamp": "2025-07-28T19:33:22.332516"
+}

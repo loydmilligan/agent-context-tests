@@ -1,0 +1,25 @@
+{
+  "value": 5,
+  "updates": [
+    {
+      "agent_id": "test-counter-0",
+      "timestamp": "2025-07-28T19:33:22.332759"
+    },
+    {
+      "agent_id": "test-counter-1",
+      "timestamp": "2025-07-28T19:33:22.342851"
+    },
+    {
+      "agent_id": "test-counter-2",
+      "timestamp": "2025-07-28T19:33:22.352985"
+    },
+    {
+      "agent_id": "test-counter-3",
+      "timestamp": "2025-07-28T19:33:22.363122"
+    },
+    {
+      "agent_id": "test-counter-4",
+      "timestamp": "2025-07-28T19:33:22.373240"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "test_run": "2025-07-28T19:33:22.383909",
+  "tests_run": 2,
+  "results": [
+    {
+      "test": "file-handoff",
+      "type": "manual",
+      "status": "requires_manual_testing"
+    },
+    {
+      "test": "counter-simulation",
+      "success": true,
+      "final_value": 5
+    }
+  ],
+  "notes": "Some tests require manual agent invocation"
+}
