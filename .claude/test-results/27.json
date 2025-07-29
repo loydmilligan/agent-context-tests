@@ -1,0 +1,18 @@
+{
+  "id": "27",
+  "timestamp": "2025-07-29T00:00:00Z",
+  "source_agent": "claude-code",
+  "test_type": "simple_data_generation",
+  "data": {
+    "message": "Test data generated for ID 27",
+    "context": "Agent context testing framework",
+    "purpose": "Basic test data creation",
+    "metadata": {
+      "created_by": "claude-code",
+      "test_scenario": "manual_invocation",
+      "data_size": "small"
+    }
+  },
+  "status": "success",
+  "created_at": "2025-07-29T00:00:00Z"
+}

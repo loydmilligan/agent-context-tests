@@ -1,0 +1,26 @@
+{
+  "id": "15",
+  "timestamp": "2025-07-29T12:00:00.000Z",
+  "source_agent": "claude-code",
+  "creation_time": "2025-07-29T12:00:00.000Z",
+  "test_type": "basic_context_test",
+  "data": {
+    "message": "Test data file 15 created for context sharing tests",
+    "status": "success",
+    "test_parameters": {
+      "simple_string": "hello world",
+      "number": 42,
+      "boolean": true,
+      "array": [1, 2, 3, 4, 5],
+      "nested_object": {
+        "key1": "value1",
+        "key2": "value2"
+      }
+    }
+  },
+  "metadata": {
+    "file_size_bytes": null,
+    "encoding": "utf-8",
+    "format": "json"
+  }
+}
