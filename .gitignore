@@ -1,6 +1,6 @@
 # Test results (but keep directory)
-.claude/test-results/*.json
-!.claude/test-results/.gitkeep
+#.claude/test-results/*.json
+#!.claude/test-results/.gitkeep
 
 # Python
 __pycache__/
@@ -22,5 +22,5 @@ Thumbs.db
 *.swo
 
 # Logs
-*.log
-test-output/
+#*.log
+#test-output/
