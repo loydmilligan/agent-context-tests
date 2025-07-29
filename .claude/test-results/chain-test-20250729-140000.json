@@ -1,0 +1,9 @@
+{
+  "id": "chain-test-20250729-140000",
+  "timestamp": "2025-07-29T14:00:00Z",
+  "source_agent": "claude-code",
+  "test_type": "chain_test",
+  "message": "Chain test",
+  "created_at": "2025-07-29T14:00:00Z",
+  "status": "created"
+}
