@@ -82,3 +82,4 @@
 [2025-08-14 22:59:49] Read: /home/mmariani/Projects/agent-context-tests/.claude/settings.json (Session: ed03d075-2d79-4d10-bd09-6985269c408e)
 [2025-08-14 22:59:56] Read: /home/mmariani/Projects/agent-context-tests/.claude/agents/agent-worker.md (Session: ed03d075-2d79-4d10-bd09-6985269c408e)
 [2025-08-14 23:00:16] Read: /home/mmariani/Projects/agent-context-tests/.claude/agents/agent-worker.md (Session: ff49a352-0f75-4169-a7e2-7db9e438180f)
+[2025-08-14 23:01:05] Read: /home/mmariani/Projects/agent-context-tests/.claude/hooks/session-start.sh (Session: ed03d075-2d79-4d10-bd09-6985269c408e)
