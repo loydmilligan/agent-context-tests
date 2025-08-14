@@ -270,3 +270,7 @@
   Task: Process Project Chimera text
   Session: 8995aa32-d9a2-4e75-9690-0c5229aa20fc
 
+[2025-08-14 23:01:39] Agent invoked: unknown
+  Task: Process text with agent-caller
+  Session: ed03d075-2d79-4d10-bd09-6985269c408e
+
