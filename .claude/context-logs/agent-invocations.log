@@ -278,3 +278,7 @@
   Task: Process landing sequence text
   Session: 37c61ee5-c832-4eac-b916-f3794ab0635a
 
+[2025-08-14 23:03:47] Agent invoked: unknown
+  Task: Process text with agent-caller
+  Session: f3c20170-3e13-4994-a86f-eba357391d77
+
